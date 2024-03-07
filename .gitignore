@@ -1,1 +1,6 @@
 CMD.txt
+.history
+./*/bin
+./*/include
+./*/lib
+./*/pyvenv.cfg
